@@ -9,3 +9,6 @@ git pull origin <branch_name> → Fetch and merge changes from remote
 git merge <branch_name> → Merge a branch into the current one
 git checkout <branch_name> → Switch to another branch
 git log → Show commit history
+
+
+Completed all the levels except for the last one as I was out of time
