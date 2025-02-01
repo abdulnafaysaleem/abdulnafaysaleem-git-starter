@@ -1,0 +1,11 @@
+Git Commands Reference Sheet
+
+
+git status → Check the status of the working directory
+git clone <repo_url> → Clone an existing repository
+git commit -m "Commit message" → Commit changes
+git branch → List all branches
+git pull origin <branch_name> → Fetch and merge changes from remote
+git merge <branch_name> → Merge a branch into the current one
+git checkout <branch_name> → Switch to another branch
+git log → Show commit history
